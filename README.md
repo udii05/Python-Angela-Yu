@@ -1,2 +1,4 @@
 # Python-Angela-Yu
-Python Bootcamp Course Porjects
+Python Bootcamp Course Projects
+<br>
+Basic projects in Python
