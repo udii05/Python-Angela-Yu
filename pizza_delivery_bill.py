@@ -13,11 +13,12 @@ elif size == "M":
     bill = 20
     if pepperoni == "Y":
         bill += 3
-else:
+elif size == "L":
     bill = 25
     if pepperoni == "Y":
         bill += 3
-
+else:
+    print("You've entered wrong input! Try Again.")
 if extra_cheese == "Y":
     bill += 1
 
